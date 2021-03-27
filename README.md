@@ -1,6 +1,6 @@
 # My-football-team-site-css-js
 
-Responsive site with cards and with basic animations.
+Responsive site with cards and with basic animations and burger button, which triggered js.
 
 <img src="img/project.png">
 
@@ -21,7 +21,7 @@ Responsive site with cards and with basic animations.
 
 Furkan Çat - [@FurkanCat](https://twitter.com/FurkanCat) - furi544@gmail.com
 
-Project Link: [Project Link](https://github.com/InsomniumFerum/digital-clock)
+Project Link: [Project Link](https://github.com/InsomniumFerum/my-football-team-site-css-js)
 
 
 Animated image gallery built with css flexbox and vanilla javascript
