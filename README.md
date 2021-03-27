@@ -2,7 +2,7 @@
 
 Responsive site with cards and with basic animations.
 
-<img src="img/project.png" width="800" height="800">
+<img src="img/project.png">
 
 #### JavaScript Used
 
